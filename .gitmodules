@@ -1,0 +1,6 @@
+[submodule "gui"]
+	path = gui
+	url = https://github.com/umairrkhn/llama3_1_flask
+[submodule "api"]
+	path = api
+	url = https://github.com/umairrkhn/llama31-function
